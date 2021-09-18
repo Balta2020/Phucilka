@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF: 1, Tigo Sport. Guate
+http://compitv.info:8080/Oaistvprof601liil/b8jXXc7qUa/253204
+#EXTINF: 1, Tigo Sport Paraguay
+http://tv5full.xyz:25461/quir/quir123/20522
+#EXTINF: 1,  TVMAX Panamá
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF: 1, BeinSport
+http://x00.so:80/Marc1234/1234Marc/124407.ts
+#EXTINF: 1, BeinSport Opc-2
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BLQ5CXZgZqXe1TIa4CQyC52PVumNAeHY7iCpCzMHbg5t/ts
+#EXTINF: 1,  TYC Sport Argentina
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BLQ5CXZgZqXe1TIa4CQyC50J80AX79kO2N5ZWh0iwXbh/ts
+#EXTINF: 1, TNT SPORTS ESTADIO
+http://compitv.info:8080/Oaistvpro257ij01/b8jXXc7qUa/116352
+http://172.106.18.66:25461/Oaistvprof601lii/b8jXXc7qUa/116352
+#EXTINF: 1, WINSPORTS Colombia
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BJLhIRyZJB9zuV3ogP_G3mufii9eI-_1c9b4-pPSlI_J/ts
+#EXTINF: 1, La Liga
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/chunks.m3u8
+#EXTINF: 1, La Liga Opc-2
+http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8
+#EXTINF: 1, BeinSport Usa
+http://23.237.29.98:4153/andromeda/BEINENG/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF: 1, DAZN 1 Alemania
+http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
+#EXTINF: 1, DAZN 1 Italia
+http://31.220.41.88:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF: 1, Fox Deportes USA 4
+http://stream.tvtap.live:8081/live/nl-foxsports4.stream/chunks.m3u8
+#EXTINF: 1, Fox Deportes USA 5
+http://stream.tvtap.live:8081/live/nl-foxsports5.stream/chunks.m3u8
+#EXTINF: 1, Fox Sport MX op2
+https://tv.teleclub.xyz/live/2/FOXSPORT_MEX.m3u8
+#EXTINF: 1, FoxSports Sur opc3
+https://tv.teleclub.xyz/live/2/FOXSPORT_LAT.m3u8
+#EXTINF: 1, FoxSports Chile
+http://budtvlight.com:25461/fernando/1234/1657
+#EXTINF: 1, FoxSports 2 Sur op2
+https://tv.teleclub.xyz/live/2/FOXSPORT2_LAT.m3u8
+#EXTINF: 1, Fox Sports 3 Sur op2
+https://tv.teleclub.xyz/live/2/FOXSPORT3_LAT.m3u8
+#EXTINF: 1, ESPN MX
+https://tv.teleclub.xyz/live/2/ESPN_MEX.m3u8
+#EXTINF: 1, ESPN 2 Latam
+
+#EXTINF: 1, ESPN DEPORTES
+http://watch.alienstreams.tv:8080/3934136260/5483122121/778
+#EXTINF: 1, ESPN LATAM
+https://tv.teleclub.xyz/live/2/ESPN_LAT.m3u8
+#EXTINF: 1, ESPN LATAM Op2
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPN2HD/hls_fk/ESPN2HD-audio_198800_spa=196800-video=1893600.m3u8
+#EXTINF: 1, ESPN 2 LATAM
+https://tv.teleclub.xyz/live/2/ESPN2_LAT.m3u8
+#EXTINF: 1, ESPN 2 LATAM Op2
+http://pelivechannelshls-1.media.claro.com.pe/bpk-tv/ESPNHD/hls_fk/ESPNHD-audio_198800_spa=196800-video=1893600.m3u8
+#EXTINF: 1, ESPN 3 Arg
+http://145.239.2.125:42021/live/aedcb34b03e145768415f94a1ed19acd/10a21c4d252341228311aba75a9b91be/27.m3u8
+#EXTINF: 1, Arena Sport ( Top )
+http://31.220.41.88:8081/live/arena1.stream/chunks.m3u8
+#EXTINF: 1, Arena Sport 2 ( Top )
+http://31.220.41.88:8081/live/arena2.stream/chunks.m3u8
+#EXTINF: 1, Arena Sport 3 ( Top )
+http://31.220.41.88:8081/live/arena3.stream/chunks.m3u8
+#EXTINF: 1, Zigo Sports
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF: 1, El Canal del Futbol2
+https://serviskylive.secure.footprint.net:443/live/l8erikNdx1zTzqA4bA61Xg/42341/2.m3u8?SBN
+#EXTINF: 1, DIRECTV 
+https://tv.teleclub.xyz/live/2/DIRECTV_SPORT.m3u8
+#EXTINF: 1, DIRECTV opc-2
+http://zonatv.info:45862/USUARIOCOL40/RxR2x6WrFd/1507
+#EXTINF: 1, DIRECTV opc-3
+http://161.132.222.196:20000/play/a0mg/41634657.m3u8
+#EXTINF: 1, DIRECTV 2
+http://zonatv.info:45862/USUARIOCOL40/RxR2x6WrFd/1510
+#EXTINF: 1, DIRECTV PLUS
+http://zonatv.info:45862/USUARIOCOL40/RxR2x6WrFd/1509
+#EXTINF: 1, TUDN USA
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BLQ5CXZgZqXe1TIa4CQyC51KLzQ5V1--cYAE5k--HqmZ/ts
+#EXTINF: 1, Viasat Sport 
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF: 1, Deportes 1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF: 1, Deportes 2
+http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF: 1, Deportes 3
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF: 1, Deportes 4
+https://95-213-224-187.liveSports24.online/belarusss5.m3u8
+#EXTINF: 1, Deportes 5
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF: 1, Canal + Polonia
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF: 1, Futball 1
+https://95-213-224-187.liveSports24.online/uafootballua1.m3u8
+#EXTINF: 1, Futball 2
+https://95-213-224-187.liveSports24.online/fooootball2.m3u8
+#EXTINF: 1, Futball 3
+https://95-213-224-187.liveSports24.online/football3ua.m3u8
+#EXTINF: 1, Setanta Sport Ucrania
+https://95-213-224-183.liveSports24.online/setantaukraine.m3u8
+#EXTINF: 1, Real Madrid TV
+https://blackghost.live/play/zutv-817.php?c=41466|User-agent=XCIPTV-v5.0.1
+#EXTINF: 1, Manchester United TV
+http://starjktv.com:8080/best/best123/12167
+#EXTINF: 1, Liverpool TV
+http://starjktv.com:8080/best/best123/12164
